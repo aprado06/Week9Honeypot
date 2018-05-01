@@ -20,4 +20,4 @@ Attacked ports (Dionaea):
 Any unresolved questions raised by the data collected
 *None
 
-<img src="Files/nmap" width="800">
+<img src="Files/nmap.png" width="800">
